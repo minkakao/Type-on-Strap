@@ -14,7 +14,7 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: > can see if you close your eye #two or three lines to describe your site
+  header_text: > #two or three lines to describe your site
      <p> Chocolate <code>cake</code> <br> is aweseome.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
