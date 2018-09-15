@@ -4,4 +4,4 @@ title: MeLifePeope
 permalink: /people/
 ---
 
-{% include cool.html %}
+{% include coolest.html %}
