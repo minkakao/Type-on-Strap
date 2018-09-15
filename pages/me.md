@@ -1,5 +1,10 @@
----
-layout: page
+--- 
+layout: default
+title : Me
+permalink: /team/
+subtitle: "This is my team" 
+feature-img: "assets/img/pexels/computer.jpeg"
+tags: [Archive]
 ---
 
 <div class="home">
