@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+baseurl: "/blog"
+url: "https://minkakao.github.io"
+title: Minka loves Chocolate # site's title
+description: "Love Art Music and People" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Kim Minkyeung # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -22,14 +22,14 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "minkakim95@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "minkakao"
   google_plus:
   instagram:
   keybase:
