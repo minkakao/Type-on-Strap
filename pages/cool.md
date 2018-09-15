@@ -3,7 +3,7 @@ layout: default
 title: MeLifePeope
 ---
 
-<div class="home">
+<div class="cool">
   {% if site.theme_settings.header_text %}
   <div id="main" class="call-out"
   style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
