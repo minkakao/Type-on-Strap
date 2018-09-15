@@ -1,7 +1,5 @@
 ---
-layout: page
-title: post
-permalink: /post/
+layout: default
 ---
 
 <div class="home">
