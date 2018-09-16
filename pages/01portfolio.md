@@ -1,10 +1,10 @@
 --- 
 layout: page
-title : Fun Projects 
+title : Portfolio 
 permalink: /portfolio/
-subtitle: "Media Art, Music, Exhibition, and Painting" 
+subtitle: "Fun Projects" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
-
+Media Art, Music, Exhibition, and Painting
 {% include portfolio.html %}
