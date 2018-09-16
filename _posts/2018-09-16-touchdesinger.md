@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Touchdesigner Programming
-feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
+title: Processing talking to Touchdesigner
+feature-img: "assets/img/pexels/td_littleprince.png"
+thumbnail: "assets/img/thumbnails/td_littleprince.png"
 tags: [Test, Lorem]
 ---
 
