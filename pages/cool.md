@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MeLifePeople
+title: Question?
 permalink: /people/
 ---
 
