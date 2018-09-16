@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
-A girl who loves chocolate, robots, art, people, book, volunteering, and music.
+A girl who loves chocolate, robots, art, people, book, volunteering, and music.<br>
 Chocolate is AWESOME
 Chocolate cake is GREAT
 Chocolate icecream is SWEET
