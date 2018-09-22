@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Processing talking to Touchdesigner
-feature-img: "assets/img/pexels/touchd1.jpg"
-thumbnail: "assets/img/thumbnails/touchd1.jpg"
+feature-img: "assets/img/pexels/creal.jpeg"
+thumbnail: "assets/img/thumbnails/creal.jpeg"
 tags: [Test, Lorem]
 ---
 
