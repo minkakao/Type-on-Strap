@@ -12,3 +12,4 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <br>
 <b>watch video</b><>
 [![watch](https://img.youtube.com/vi/ofaP4GcXCLI/0.jpg)](https://www.youtube.com/watch?v=ofaP4GcXCLI "c.realTimes")
+img[alt=watch] { width: 200px; }
