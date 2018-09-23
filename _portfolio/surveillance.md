@@ -2,6 +2,7 @@
 layout: post
 title: We are watching u
 img: "assets/img/portfolio/weRWatcingU.jpg"
+date : 01, 2018, June 
 tags: [Ipsum]
 ---
 
