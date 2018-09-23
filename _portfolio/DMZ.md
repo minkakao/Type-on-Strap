@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Github
-img: "assets/img/portfolio/dmz3.jpg"
-date: 20-10-2017
+title: DMZ
+img: "assets/img/portfolio/dmz3.JPG"
 tags: [Lorem, Portfolio]
 ---
 
