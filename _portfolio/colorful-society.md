@@ -6,7 +6,7 @@ img: "assets/img/portfolio/colorful.jpg"
 date: 2017-05-26
 ---
 
-Look around you. What color are you wearing ? 
+Look around you. What color are you wearing?
 
 ![Colorful Society]({{ site.baseurl }}/assets/img/pexels/colorful1.jpg)
 ![Colorful Society]({{ site.baseurl }}/assets/img/pexels/colorful2.jpg)
