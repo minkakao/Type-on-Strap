@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Creative
-feature-img: "assets/img/portfolio/exhibition.JPG"
-img: "assets/img/portfolio/exhibition.JPG"
+feature-img: "assets/img/portfolio/exhibition.jpg"
+img: "assets/img/portfolio/exhibition.jpg"
 date: August, 16 2014
 tags: [Ipsum]
 ---
