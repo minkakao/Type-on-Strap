@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Ninja
-img: "assets/img/portfolio/ninja.png"
-date: April, 08 2014
+title: Olympic
+img: "assets/img/portfolio/olympic.jpg"
 tags: [Lorem]
 ---
 
