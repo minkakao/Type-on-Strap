@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Talk-affiti
+feature-img: "assets/img/portfolio/talk.JPG"
 img: "assets/img/portfolio/talk.JPG"
 ---
 
