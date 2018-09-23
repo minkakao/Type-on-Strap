@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tic tac toe
-feature-img: "assets/img/portfolio/ttt.png"
-img: "assets/img/portfolio/ttt.png"
+title: Billy Story
+feature-img: "assets/img/portfolio/deading.jpg"
+img: "assets/img/portfolio/deading.jpg"
 date: September 2014
 ---
 
