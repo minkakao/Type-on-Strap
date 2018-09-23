@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tower of Hanoi
-img: "assets/img/portfolio/talk.jpg"
+title: Talk-affiti
+img: "assets/img/portfolio/talk.JPG"
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})
