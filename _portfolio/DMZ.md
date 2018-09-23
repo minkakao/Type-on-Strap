@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DMZ
-img: "assets/img/portfolio/dmz3.JPG"
+img: "assets/img/portfolio/dmz3.jpg"
 tags: [Lorem, Portfolio]
 ---
 
