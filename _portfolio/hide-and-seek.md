@@ -3,7 +3,6 @@ layout: post
 title: Hide and Seek 
 feature-img: "assets/img/portfolio/hideAndSeek.JPG"
 img: "assets/img/portfolio/hideAndSeek.JPG"
-date: 03 May 2018 
 tags: [Lorem, Ipsum, Portfolio]
 ---
 
