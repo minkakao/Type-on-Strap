@@ -2,7 +2,6 @@
 layout: post
 title: Olympic
 img: "assets/img/portfolio/olympic.jpg"
-date: 2018-03-02
 tags: [Lorem]
 ---
 
