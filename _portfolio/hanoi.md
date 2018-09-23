@@ -2,7 +2,7 @@
 layout: post
 title: Tower of Hanoi
 img: "assets/img/portfolio/toh.png"
-date: 01, June, 2017
+date: 01, June, 2019, 2017
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})
