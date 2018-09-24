@@ -7,13 +7,13 @@ feature-img: "assets/img/portfolio/up.gif"
 tags: [Archive]
 ---
 <style>
- h4 {
+ d {
    text-align:left;
  }
 </style>
 
 <body>
-Media Art, Interactive Art, Exhibition, and Music <br>
+<d>Media Art, Interactive Art, Exhibition, and Music</d> <br>
 </body>
 <br>
 {% include portfolio.html %}
