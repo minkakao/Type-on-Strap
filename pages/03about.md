@@ -7,7 +7,7 @@ tags: [About, Archive]
 ---
 <style>
  a { 
-  color:black;}
+  color:blue;}
 </style>
 <h4><a A girl who loves robots, art, people, book, volunteering, and music.</a></h4><br>
 
