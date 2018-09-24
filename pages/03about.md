@@ -6,13 +6,13 @@ feature-img: "assets/img/pexels/minion2.gif"
 tags: [About, Archive]
 ---
 <style>
- a {
+ c {
   color:red;
   text-decoration : none;
  }
 </style>
 
-<h4><a> A girl who loves robots, art, people, book, volunteering, and music.</a></h4><br>
+<h4><c> A girl who loves robots, art, people, book, volunteering, and music.</c></h4><br>
 
 Chocolate is AWESOME<br>
 Chocolate cake is GREAT<br>
