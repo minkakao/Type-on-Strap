@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "assets/img/pexels/minion2.gif"
 tags: [About, Archive]
 ---
-<h4>A girl who loves chocolate, robots, art, people, book, volunteering, and music.</h4><br>
+<h4>A girl who loves robots, art, people, book, volunteering, and music.</h4><br>
 
 Chocolate is AWESOME<br>
 Chocolate cake is GREAT<br>
