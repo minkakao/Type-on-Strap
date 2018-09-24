@@ -6,8 +6,9 @@ feature-img: "assets/img/pexels/minion2.gif"
 tags: [About, Archive]
 ---
 <style>
- a { 
+ a {
   color:blue;
+  text-decoration : none;
  }
 </style>
 
