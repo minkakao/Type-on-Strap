@@ -9,7 +9,7 @@ tags: [About, Archive]
  a { 
   color:blue;}
 </style>
-<h4><a A girl who loves robots, art, people, book, volunteering, and music.</a></h4><br>
+<h4><a> A girl who loves robots, art, people, book, volunteering, and music.</a></h4><br>
 
 Chocolate is AWESOME<br>
 Chocolate cake is GREAT<br>
