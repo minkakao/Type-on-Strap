@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Blog 
+title: Projects
+subtitle: "Fun projects"
 excerpt_separator: <!--more-->
-permalink: /process/
+feature-img: "assets/img/portfolio/up.gif"
+permalink: /projects/
 ---
 
 <div class="home">
@@ -18,7 +20,7 @@ permalink: /process/
 <div class="posts">
     {% for post in site.posts %}
     <div class="post-teaser">
-      {% if post.thumbnail %} 
+      {% if post.thumbnail %}
       <div class="post-img">
          <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
       </div>

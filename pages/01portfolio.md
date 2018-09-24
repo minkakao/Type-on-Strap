@@ -1,8 +1,8 @@
 ---
 layout: page
-title : Portfolio
-permalink: /portfolio/
-subtitle: "Fun Projects"
+title : Home
+permalink: /home_portfolio/
+subtitle: "Minkyeung Kim"
 feature-img: "assets/img/portfolio/up.gif"
 tags: [Archive]
 ---
