@@ -7,7 +7,7 @@ tags: [About, Archive]
 ---
 <style>
  a {
-  color:blue;
+  color:red;
   text-decoration : none;
  }
 </style>
