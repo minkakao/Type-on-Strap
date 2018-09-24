@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/up.gif"
+feature-img: "assets/img/pexels/minion.gif"
 tags: [About, Archive]
 ---
 <h4>A girl who loves chocolate, robots, art, people, book, volunteering, and music.</h4><br>
