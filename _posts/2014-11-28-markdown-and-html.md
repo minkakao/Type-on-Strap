@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Markdown and HTML
+feature-img: "assets/img/pexels/creal.jpeg"
+thumbnail: "assets/img/thumbnails/creal.jpeg"
 tags: [Test, Markdown]
 ---
 

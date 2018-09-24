@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Blogging with title
+feature-img: "assets/img/pexels/creal.jpeg"
+thumbnail: "assets/img/thumbnails/creal.jpeg"
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
