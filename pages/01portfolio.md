@@ -7,12 +7,12 @@ feature-img: "assets/img/portfolio/up.gif"
 tags: [Archive]
 ---
 <style>
- d {
-   text-align: center;
+ h4 {
+   text-align:center;
  }
 </style>
 
 <body>
-<d>Media Art, Interactive Art, Exhibition, and Music </d>
+<h4>Media Art, Interactive Art, Exhibition, and Music </h4>
 </body>
 {% include portfolio.html %}
