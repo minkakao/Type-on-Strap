@@ -8,11 +8,12 @@ tags: [Archive]
 ---
 <style>
  h4 {
-   text-align:center;
+   text-align:left;
  }
 </style>
 
 <body>
-<h4>Media Art, Interactive Art, Exhibition, and Music </h4>
+Media Art, Interactive Art, Exhibition, and Music <br>
 </body>
+<br>
 {% include portfolio.html %}
