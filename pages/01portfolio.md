@@ -2,7 +2,7 @@
 layout: page
 title : Home
 permalink: /home_portfolio/
-subtitle: "Minkyeung Kim"
+subtitle: "Minkyeung's Fun Projects"
 feature-img: "assets/img/portfolio/up.gif"
 tags: [Archive]
 ---
