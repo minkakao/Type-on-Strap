@@ -6,7 +6,7 @@ thumbnail: "assets/img/portfolio/talk.jpg"
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
-# Talk + Graffiti = Talkaffiti
+#Talk + Graffiti = Talkaffiti
 
 Draw graffiti by your own VOICE.
 
